@@ -29,11 +29,14 @@
 .category{
     margin-top: 100px;
     margin-left: 20px;
-  }
+}
 h4{
     color: white;
 }
 .search {
     margin-top: 20px;  
 }
-
+.icons {
+    display: flex;
+    align-items: flex-end;
+}
